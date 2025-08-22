@@ -11,7 +11,6 @@ I enjoy a lot enjoy programming 👨‍💻 especially when it is web related �
 🤝 Team player who enjoys collaborating and building impactful projects.
 
 More things i like:
-
 🚴‍♂️ Cycling
 </br>
 📖 Read
