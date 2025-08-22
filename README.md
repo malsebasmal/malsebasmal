@@ -1,6 +1,6 @@
 # Hi, I'm Antonio 👋
 
-## About Me
+## About Me:
 
 I enjoy a lot enjoy programming 👨‍💻 especially when it is web related 🌐.
 </br>
