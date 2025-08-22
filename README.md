@@ -3,9 +3,11 @@
 ## About Me
 
 I enjoy a lot enjoy programming 👨‍💻 especially when it is web related 🌐.
-<br>
+</br>
 🌱 Always learning and improving.
+</br>
 ⌛ Focused on productivity and clean code.
+</br>
 🤝 Team player who enjoys collaborating and building impactful projects.
 
 More things i like:
