@@ -1,6 +1,6 @@
 # Hi, I'm Antonio 👋
 
-## About Me:
+## About Me
 
 I enjoy a lot enjoy programming 👨‍💻 especially when it is web related 🌐.
 </br>
@@ -21,7 +21,7 @@ More things i like:
 ☕ Drink coffee
 </br>
 
-## Technologies:
+## Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -75,10 +75,10 @@ More things i like:
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-## Web Developer (Full-Stack or maybe more Front 🤓):
+## Web Developer (Full-Stack or maybe more Front 🤓☝️)
 [![GitHub Streak](https://streak-stats.demolab.com?user=malsebasmal&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-## Links:
+## Links
 [![Twitter](https://img.shields.io/badge/Twitter-@malsebasmal-ff00aa?style=for-the-badge&logo=twitter&logoColor=000000&labelColor=000000)](https://twitter.com/malsebasmal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AntonioMaldonadoEchevarria-ff00aa?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=487FCF)](https://www.linkedin.com/in/antoniomaldonadotech)
-[![Email](https://img.shields.io/badge/antoniomaldonadotech@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:antoniomaldonadotech@gmail.com)
+[![Email](https://img.shields.io/badge/antoniomaldonadotech@gmail.com-email-ff00aa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:antoniomaldonadotech@gmail.com)
