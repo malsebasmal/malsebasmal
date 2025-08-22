@@ -79,7 +79,7 @@ More things i like:
 [![GitHub Streak](https://streak-stats.demolab.com?user=malsebasmal&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Links:
-[![Twitter](https://img.shields.io/badge/Twitter-@malsebasmal-ff00aa?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/malsebasmal)
-[![Twitter](https://img.shields.io/badge/Twitter-@malsebasmal-ff00aa?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/malsebasmal)
+[![Twitter](https://img.shields.io/badge/Twitter-@malsebasmal-000000?style=for-the-badge&logo=twitter&logoColor=ff00aa&labelColor=ff00aa)](https://twitter.com/malsebasmal)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AntonioMaldonadoEchevarria-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antoniomaldonadotech)
 [![Email](https://img.shields.io/badge/antoniomaldonadotech@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:antoniomaldonadotech@gmail.com)
