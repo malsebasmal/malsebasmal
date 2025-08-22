@@ -2,7 +2,7 @@
 
 ## About Me
 
-I enjoy a lot enjoy programming 👨‍💻 especially when it is web related 🌐.
+I really enjoy programming 👨‍💻 especially when it is web-related 🌐.
 </br>
 🌱 Always learning and improving.
 </br>
