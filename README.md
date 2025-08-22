@@ -80,5 +80,5 @@ More things i like:
 
 ## Links:
 [![Twitter](https://img.shields.io/badge/Twitter-@malsebasmal-ff00aa?style=for-the-badge&logo=twitter&logoColor=000000&labelColor=000000)](https://twitter.com/malsebasmal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AntonioMaldonadoEchevarria-000000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=487FCF)](https://www.linkedin.com/in/antoniomaldonadotech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AntonioMaldonadoEchevarria-ff00aa?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=487FCF)](https://www.linkedin.com/in/antoniomaldonadotech)
 [![Email](https://img.shields.io/badge/antoniomaldonadotech@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:antoniomaldonadotech@gmail.com)
