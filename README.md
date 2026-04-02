@@ -1,9 +1,9 @@
-# Antonio Maldonado E.
+# Hey, I'm Antonio 👋
 
 Frontend Developer focused on building scalable web products with React, Next.js and TypeScript.
 Currently working with SaaS dashboards, design systems, and AI-assisted development workflows.
 
-## Technologies
+## Technologies 🛠️
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -53,11 +53,11 @@ Currently working with SaaS dashboards, design systems, and AI-assisted developm
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
-## GitHub Activity
+## GitHub Activity 🔥
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=malsebasmal&theme=violet-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-## Links
+## Let's connect 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AntonioMaldonadoEchevarria-ff00aa?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=487FCF)](https://www.linkedin.com/in/antoniomaldonadotech)
 [![Email](https://img.shields.io/badge/antoniomaldonadotech@gmail.com-email-ff00aa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:antoniomaldonadotech@gmail.com)
