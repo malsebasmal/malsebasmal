@@ -1,7 +1,8 @@
 # Hey, I'm Antonio 👋
 
 Frontend Developer focused on building scalable web products with React, Next.js and TypeScript.
-Currently working with SaaS dashboards, design systems, and AI-assisted development workflows.
+I've shipped interfaces for real estate, fintech, and cultural platforms — currently working with 
+SaaS dashboards, design systems, and AI-assisted development workflows.
 
 ## Technologies 🛠️
 
