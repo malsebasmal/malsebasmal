@@ -62,4 +62,4 @@ I've shipped production-ready features for real estate, fintech, and cultural pl
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniomaldonadotech@gmail.com)
 
 
-*Open to remote opportunities with US and EU companies · Frontend Developer · React · Next.js · TypeScript*
+*Frontend Developer · React · Next.js · TypeScript*
