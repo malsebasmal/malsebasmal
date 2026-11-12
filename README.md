@@ -47,13 +47,6 @@ I've shipped production-ready features for real estate, fintech, and cultural pl
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-## 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=malsebasmal&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=malsebasmal&show_icons=true&theme=dark&hide_border=true&hide=issues&count_private=true)](https://github.com/malsebasmal)
-
-
 ## 🔗 Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliomalsebasmalelf.vercel.app)
